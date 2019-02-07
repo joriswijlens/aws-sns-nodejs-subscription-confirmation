@@ -1,0 +1,14 @@
+{
+  "name": "sns-endpoint",
+  "version": "1.0.0",
+  "description": "Test for sns subscription confirmation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Joris Wijlens",
+  "license": "ISC",
+  "dependencies": {
+    "good-guy-http": "^1.12.2"
+  }
+}
